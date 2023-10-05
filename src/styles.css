@@ -1,0 +1,24 @@
+#root {
+  --color-dark-d4: rgb(82, 80, 89);
+  --color-dark-d5: rgb(118, 115, 128);
+  --color-secondary-light: rgb(150, 90, 220);
+  --color-dark-d1: rgb(23, 23, 26);
+  --border-radius-sm: 4px;
+  --spacing-nano: 8px;
+  --font-size: 16px;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: Lato, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  padding: 8px;
+}
